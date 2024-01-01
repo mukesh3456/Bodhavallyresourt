@@ -176,7 +176,7 @@ Default Btn Style
   left: 0%;
   width: 0;
   height: 50%;
-  background-color: #1B2132;
+  background-color: #6B9027;
   z-index: -1;
   -webkit-transition: all 0.7s;
   transition: all 0.7s;
@@ -190,7 +190,7 @@ Default Btn Style
   right: 0%;
   width: 0;
   height: 50%;
-  background-color: #1B2132;
+  background-color: #6B9027;
   z-index: -1;
   opacity: 0;
   -webkit-transition: all 0.8s;
@@ -268,7 +268,7 @@ Top Header
 }
 
 .top-header-bg {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .header-right {
@@ -654,7 +654,7 @@ Navbar Area
   margin: 0 2px;
   -webkit-transition: 0.7s;
   transition: 0.7s;
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .side-nav-responsive .dot-menu:hover .circle-inner .circle {
@@ -700,7 +700,7 @@ Navbar Area
 }
 
 .side-nav-responsive .side-nav-inner .side-nav {
-  background-color: #1B2132;
+  background-color: #6B9027;
   padding: 10px 0;
 }
 
@@ -1027,7 +1027,7 @@ Sidebar Modal
   width: 30px;
   height: 30px;
   line-height: 32px;
-  background-color: #1B2132;
+  background-color: #6B9027;
   color: #ffffff;
   border-radius: 50px;
   text-align: center;
@@ -1353,7 +1353,7 @@ Banner Form Area
 
 .banner-form .form-group label {
   font-weight: 600;
-  color: #1B2132;
+  color: #6B9027;
   margin-bottom: 0;
 }
 
@@ -1458,7 +1458,7 @@ Inner Banner
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: #1B2132;
+  background-color: #6B9027;
   opacity: 0.5;
 }
 
@@ -1659,7 +1659,7 @@ About Area
 
 .about-content .about-form .form-group label {
   font-weight: 600;
-  color: #1B2132;
+  color: #6B9027;
   margin-bottom: 10px;
 }
 
@@ -1904,12 +1904,12 @@ Gallery Area
 }
 
 .single-gallery .gallery-icon:hover {
-  background-color: #1B2132;
+  background-color: #6B9027;
   color: #ffffff;
 }
 
 .single-gallery .gallery-icon:hover::before {
-  border-color: #1B2132;
+  border-color: #6B9027;
 }
 
 .single-gallery .gallery-icon::before {
@@ -2056,12 +2056,12 @@ Services Area
 }
 
 .services-item .get-btn:hover {
-  color: #1B2132;
+  color: #6B9027;
   letter-spacing: 0.50px;
 }
 
 .services-item .get-btn:hover::before {
-  background-color: #1B2132;
+  background-color: #6B9027;
   opacity: 1;
 }
 
@@ -2352,7 +2352,7 @@ Services Area
 
 .services-bar-widget .side-bar-categories ul li a {
   display: inline-block;
-  color: #1B2132;
+  color: #6B9027;
   font-weight: normal;
   padding: 8px 20px;
   font-weight: 600;
@@ -2387,7 +2387,7 @@ Services Area
 
 .services-bar-widget .side-bar-list ul li a {
   display: inline-block;
-  color: #1B2132;
+  color: #6B9027;
   font-weight: normal;
   padding: 8px 20px;
   font-weight: 600;
@@ -2514,7 +2514,7 @@ Reservation Area
 }
 
 .reservation-room .content .book-btn:hover {
-  background-color: #1B2132 !important;
+  background-color: #6B9027 !important;
 }
 
 /*=================================
@@ -2933,7 +2933,7 @@ Room Area
 }
 
 .room-item .content .book-btn:hover {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .room-card-two {
@@ -3050,7 +3050,7 @@ Room Area
 }
 
 .room-card-two .room-card-content .book-more-btn:hover {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .side-bar-form {
@@ -3081,7 +3081,7 @@ Room Area
 
 .side-bar-form .form-group label {
   font-weight: 600;
-  color: #1B2132;
+  color: #6B9027;
   margin-bottom: 10px;
 }
 
@@ -4541,7 +4541,7 @@ Booking Area
 
 .booking-form .form-group label {
   font-weight: 600;
-  color: #1B2132;
+  color: #6B9027;
   margin-bottom: 10px;
 }
 
@@ -5395,7 +5395,7 @@ Blog Area
 }
 
 .search-widget .search-form button:hover {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .side-bar-widget {
@@ -5633,7 +5633,7 @@ Pagination Area End
   font-size: 300px;
   line-height: 0.7;
   font-weight: 700;
-  color: #1B2132;
+  color: #6B9027;
 }
 
 .error-area .error-content h1 span {
@@ -5843,7 +5843,7 @@ Coming Soon Area
 }
 
 .coming-soon-area .coming-soon-content ul li:hover {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .coming-soon-area #validator-newsletter {
@@ -5858,7 +5858,7 @@ Coming Soon Area End
 Footer Area
 ====================================*/
 .footer-bg {
-  background-color: #1B2132;
+  background-color: #6B9027;
 }
 
 .footer-widget {
@@ -6035,7 +6035,7 @@ Footer Area
   background-color: #ffffff;
   border-color: #ffffff;
   border-radius: 50px;
-  color: #1B2132;
+  color: #6B9027;
 }
 
 .text-align1 {
@@ -6066,13 +6066,13 @@ Back To Top Button
 }
 
 .top-btn {
-  background-color: #1B2132;
+  background-color: #6B9027;
   color: #ffffff;
   width: 45px;
   height: 45px;
   border-radius: 50%;
-  -webkit-box-shadow: 0 0 15px #1B2132;
-          box-shadow: 0 0 15px #1B2132;
+  -webkit-box-shadow: 0 0 15px #6B9027;
+          box-shadow: 0 0 15px #6B9027;
   font-size: 20px;
   display: inline-block;
   text-align: center;
@@ -6132,7 +6132,7 @@ Buy Now Btn End
 PreLoader CSS 
 =================================*/
 .preloader {
-  background: #1B2132;
+  background: #6B9027;
   height: 100%;
   width: 100%;
   position: fixed;
