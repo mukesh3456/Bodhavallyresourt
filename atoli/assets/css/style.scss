@@ -51,9 +51,9 @@ $title-fonts: 'Noto Serif', serif;
 $body-font: 'Open Sans', sans-serif;
 
 $main-color: #292323;
-$optional-color:#B56952;
-$optional-color2:#C890FF;
-$optional-color3:#EE786C;
+$optional-color:#F6951C !important;
+$optional-color2:#F6951C;
+$optional-color3:#F6951C;
 $optional-bg: #1B2132;
 $optional-bg-2: #F5F5F5;
 $optional-bg-3: #FEF7F6;
@@ -450,7 +450,7 @@ Navbar Area
                     background-color: $color-white !important;
                     transform: scale(0);
                     li {
-                        border-bottom: 1px dashed #ee786c4f;
+                        border-bottom: 1px dashed #F6951C4f;
                         &:last-child {
                             border-bottom: none;
                         }
@@ -2060,7 +2060,7 @@ Services Area
                 font-size: 16px;
                 font-weight: 600;
                 background-color: $optional-bg-3;
-                border: 1px solid #ee786c7a;
+                border: 1px solid #F6951C7a;
                 &:hover {
                     background-color: $optional-color3;
                 }
@@ -2089,7 +2089,7 @@ Services Area
                 font-size: 16px;
                 font-weight: 600;
                 background-color: $optional-bg-3;
-                border: 1px solid #ee786c7a;
+                border: 1px solid #F6951C7a;
                 &:hover {
                     background-color: $optional-color3;
                 }
@@ -3149,7 +3149,7 @@ Testimonials Area
         margin-bottom: 0 !important;
         .owl-dot {
             span {
-                background-color: #ee786c96 !important;
+                background-color: #F6951C96 !important;
                 transition: 0.7s;
                 margin: 0 7px;
                 width: 12px !important;
@@ -3180,7 +3180,7 @@ Testimonials Area
         margin-bottom: 0 !important;
         .owl-dot {
             span {
-                background-color: #ee786c87 !important;
+                background-color: #F6951C87 !important;
                 transition: 0.7s;
                 margin: 0 7px;
             }
