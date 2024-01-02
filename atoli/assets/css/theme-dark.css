@@ -13,7 +13,7 @@
   right: 0;
   bottom: 0;
   background-color: transparent;
-  border: 1.5px solid #C890FF;
+  border: 1.5px solid #F6951C;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -212,7 +212,7 @@
 }
 
 .theme-dark .sidebar-modal .sidebar-header .close-btn:hover {
-  background-color: #C890FF;
+  background-color: #F6951C;
 }
 
 .theme-dark .sidebar-modal .contact-us ul li {
@@ -228,7 +228,7 @@
 }
 
 .theme-dark .sidebar-modal .contact-us ul li a:hover {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .sidebar-modal .sidebar-room-feed .sidebar-room-content li .content h3 a {
@@ -236,7 +236,7 @@
 }
 
 .theme-dark .sidebar-modal .sidebar-room-feed .sidebar-room-content li .content h3:hover a {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .sidebar-modal .sidebar-follow-us .social-wrap li a i {
@@ -280,7 +280,7 @@
 }
 
 .theme-dark .side-nav-responsive .dot-menu .circle-inner .circle {
-  background-color: #C890FF;
+  background-color: #F6951C;
 }
 
 .theme-dark .side-nav-responsive .dot-menu:hover .circle-inner .circle {
@@ -304,15 +304,15 @@
 }
 
 .theme-dark .side-nav-responsive .side-nav-inner .side-nav .option-item .language-option-list .nice-select .list .option {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .side-nav-responsive .side-nav-inner .side-nav .option-item .language-option-list .nice-select .list .option:hover {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .side-nav-responsive .side-nav-inner .side-nav .option-item .language-option-list .nice-select .list .option .selected {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .theme-dark .side-nav-responsive .side-nav-inner .side-nav .option-item .language-option-list .nice-select:after {
@@ -564,11 +564,11 @@
 }
 
 .theme-dark .room-item .content p {
-  border-bottom: 1px solid #C890FF;
+  border-bottom: 1px solid #F6951C;
 }
 
 .theme-dark .room-item .content ul li {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .room-item .content ul li span {
@@ -580,7 +580,7 @@
 }
 
 .theme-dark .room-item .content .book-btn {
-  background-color: #C890FF;
+  background-color: #F6951C;
 }
 
 .theme-dark .room-item .content .book-btn:hover {
@@ -901,11 +901,11 @@
 }
 
 .theme-dark .blog-card .blog-color span {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .blog-card .blog-color .read-btn {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .theme-dark .blog-item {

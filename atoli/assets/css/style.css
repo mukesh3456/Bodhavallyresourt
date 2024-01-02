@@ -576,27 +576,27 @@ Navbar Area
 }
 
 .nav-two nav .navbar-nav .nav-item:hover a, .nav-two nav .navbar-nav .nav-item .active {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-two nav .navbar-nav .nav-item a:hover, .nav-two nav .navbar-nav .nav-item a :focus {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-two nav .navbar-nav .nav-item a.active {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-two nav .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-two nav .navbar-nav .nav-item .dropdown-menu li a:hover, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a :focus, .nav-two nav .navbar-nav .nav-item .dropdown-menu li a .active {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-two nav .navbar-nav .nav-item .dropdown-menu li.active {
-  color: #C890FF !important;
+  color: #F6951C !important;
 }
 
 .nav-three nav .navbar-nav .nav-item:hover a, .nav-three nav .navbar-nav .nav-item .active {
@@ -958,7 +958,7 @@ Navbar Area
 
 .option-item .menu-icon .menu-icon-one {
   font-size: 35px;
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .option-item .menu-icon .menu-icon-one:hover {
@@ -1036,7 +1036,7 @@ Sidebar Modal
 }
 
 .sidebar-modal .sidebar-header .close-btn:hover {
-  background-color: #C890FF;
+  background-color: #F6951C;
 }
 
 .sidebar-modal .sidebar-about {
@@ -2089,7 +2089,7 @@ Services Area
 }
 
 .services-card:hover h3 a {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .services-card i {
@@ -2097,7 +2097,7 @@ Services Area
   height: 90px;
   background-color: #F5F5F5;
   font-size: 45px;
-  color: #C890FF;
+  color: #F6951C;
   border-radius: 50px;
   line-height: 90px;
   display: inline-block;
@@ -2121,7 +2121,7 @@ Services Area
 
 .services-card .get-btn {
   display: inline-block;
-  color: #C890FF;
+  color: #F6951C;
   font-weight: 600;
   position: relative;
 }
@@ -2134,7 +2134,7 @@ Services Area
   height: 1px;
   left: 0;
   right: 0;
-  background-color: #C890FF;
+  background-color: #F6951C;
   -webkit-transition: 0.9s;
   transition: 0.9s;
   opacity: 0.5;
@@ -2543,7 +2543,7 @@ Ability Area
 
 .ability-content .ability-counter h3 {
   font-size: 45px;
-  color: #C890FF;
+  color: #F6951C;
   margin-bottom: 0;
 }
 
@@ -2827,7 +2827,7 @@ Room Area
 }
 
 .room-area-two .owl-dots .owl-dot span {
-  background-color: #c890ff54 !important;
+  background-color: #F6951C54 !important;
   -webkit-transition: 0.7s;
   transition: 0.7s;
   margin: 0 7px;
@@ -2836,11 +2836,11 @@ Room Area
 }
 
 .room-area-two .owl-dots .owl-dot.active span {
-  background-color: #C890FF !important;
+  background-color: #F6951C !important;
 }
 
 .room-area-two .owl-dots .owl-dot:hover span {
-  background-color: #C890FF !important;
+  background-color: #F6951C !important;
 }
 
 .room-item {
@@ -2880,7 +2880,7 @@ Room Area
 .room-item .content p {
   margin-bottom: 25px;
   padding-bottom: 15px;
-  border-bottom: 1px solid #C890FF;
+  border-bottom: 1px solid #F6951C;
 }
 
 .room-item .content ul {
@@ -2891,7 +2891,7 @@ Room Area
 
 .room-item .content ul li {
   font-size: 16px;
-  color: #C890FF;
+  color: #F6951C;
   display: inline-block;
   margin-right: 10px;
   position: relative;
@@ -2926,7 +2926,7 @@ Room Area
   position: absolute;
   bottom: 25px;
   right: 20px;
-  background-color: #C890FF;
+  background-color: #F6951C;
   padding: 6px 18px;
   color: #ffffff;
   border-radius: 50px;
@@ -3526,7 +3526,7 @@ Testimonials Area
 }
 
 .testimonials-area-two .owl-dots .owl-dot span {
-  background-color: #c890ff54 !important;
+  background-color: #F6951C54 !important;
   -webkit-transition: 0.7s;
   transition: 0.7s;
   margin: 0 7px;
@@ -3535,11 +3535,11 @@ Testimonials Area
 }
 
 .testimonials-area-two .owl-dots .owl-dot.active span {
-  background-color: #C890FF !important;
+  background-color: #F6951C !important;
 }
 
 .testimonials-area-two .owl-dots .owl-dot:hover span {
-  background-color: #C890FF !important;
+  background-color: #F6951C !important;
 }
 
 .testimonials-content {
@@ -3561,7 +3561,7 @@ Testimonials Area
   left: 0;
   right: 0;
   font-size: 250px;
-  color: #C890FF;
+  color: #F6951C;
   margin: 0 auto;
   text-align: center;
   opacity: 0.08;
@@ -3569,7 +3569,7 @@ Testimonials Area
 
 .testimonials-content i {
   font-size: 50px;
-  color: #C890FF;
+  color: #F6951C;
   line-height: 1;
 }
 
@@ -3925,7 +3925,7 @@ Contact Area
 }
 
 .contact-form .form-group.checkbox-option p a:hover {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .contact-form .form-group .form-control {
@@ -4536,7 +4536,7 @@ Booking Area
   position: absolute;
   top: 60%;
   right: 10px;
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .booking-form .form-group label {
@@ -4613,7 +4613,7 @@ Booking Area
 .booking-form .nice-select::after {
   height: 8px;
   width: 8px;
-  border-color: #C890FF;
+  border-color: #F6951C;
   right: auto;
   top: 45%;
   right: 20px;
@@ -4878,7 +4878,7 @@ Checkout Area
   left: 0;
   width: 0;
   height: 100%;
-  background-color: #C890FF;
+  background-color: #F6951C;
   z-index: -1;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -5013,11 +5013,11 @@ Blog Area
 }
 
 .blog-card .blog-color span {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .blog-card .blog-color .read-btn {
-  color: #C890FF;
+  color: #F6951C;
 }
 
 .blog-item {
@@ -6047,7 +6047,7 @@ Footer Area
 }
 
 .copy-right-top {
-  border-top: 1px solid #C890FF;
+  border-top: 1px solid #F6951C;
 }
 
 /*=================================
